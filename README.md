@@ -105,7 +105,7 @@ independently.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/openmodelica-sim-launcher.git
+git clone https://github.com/tanishk001-ai/openmodelica-sim-launcher.git
 cd openmodelica-sim-launcher
 
 # 2. Create a virtual environment (recommended)
@@ -158,7 +158,7 @@ omc --version
 
 ```bash
 # Linux
-./model/TwoConnectedTanks -override=startTime=0,stopTime=4
+./NonInteractingTanks.TwoConnectedTanks -override=startTime=0,stopTime=4
 
 # Windows
 model\TwoConnectedTanks.exe -override=startTime=0,stopTime=4
