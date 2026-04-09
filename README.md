@@ -237,7 +237,7 @@ openmodelica-sim-launcher/
 │   └── TwoConnectedTanks_init.xml
 │
 ├── docs/
-│   └── screenshot.png       ← Application screenshot
+│   └── Screenshot 2026-04-07 at 01.45.38.png       ← Application screenshot
 │
 ├── requirements.txt
 └── README.md
