@@ -83,6 +83,8 @@ independently.
 - **Keyboard shortcut** — `Ctrl+R` to run, `Enter` in time fields to trigger run
 - **Non-blocking UI** — simulation runs in a `QThread`, UI stays responsive
 - **Unit tests** — full coverage of validation logic
+- <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e00d5e5a-1b50-476c-8b9a-858ae2840f85" />
+
 
 ---
 
